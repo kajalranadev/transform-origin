@@ -14,7 +14,7 @@
 body {
   background: var(--primary);
   color: var(--color);
-  font-family: 'Arvo', serif;
+  font-family: "Arvo", serif;
 }
 
 header {
@@ -37,7 +37,6 @@ main {
   margin: 0 auto;
 }
 
-
 main p {
   line-height: 1.8rem;
   font-family: sans-serif;
@@ -54,7 +53,7 @@ button {
   cursor: pointer;
   margin-top: 4rem;
   font-size: 1.3rem;
-  font-family: 'Arvo', serif;
+  font-family: "Arvo", serif;
 }
 
 .transform-box {
